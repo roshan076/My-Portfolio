@@ -12,12 +12,14 @@ The `Cat-Photo-App` folder contains a project that showcases cat photos, lists t
 - This project is an exercise from freeCodeCamp.
 - Original source: [freeCodeCamp/CatPhotoApp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/)
 
-### 2. Project2
+### 2. Cafe Menu
 
-...
+The `Cafe-Menu` folder contains a project that showcases a responsive design for a cafe's menu, including sections for coffee and desserts. Each section lists various items with their respective prices.
 
 #### Acknowledgments
-- ...
+- This project is an exercise from freeCodeCamp.
+- Original source: [freeCodeCamp Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
+
 
 ### How to View
 
