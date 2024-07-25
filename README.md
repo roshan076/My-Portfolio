@@ -21,5 +21,5 @@ To view any project, navigate to the respective folder and open the `index.html`
 
 Feel free to reach out to me for any queries or opportunities.
 
-- Email: [roshanpokharel24@gmail.com](roshanpokharel24@gmail.com)
+- Email: [roshanpokharel24@gmail.com](mailto:roshanpokharel24@gmail.com)
 - LinkedIn: [Roshan Pokharel](https://www.linkedin.com/in/roshan-pokharel-674316308/)
