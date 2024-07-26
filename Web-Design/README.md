@@ -8,17 +8,27 @@ This repository contains projects and exercises related to responsive web design
 
 The `Cat-Photo-App` folder contains a project that showcases cat photos, lists things cats love and hate, and includes a form for submitting cat photos.
 
-#### Acknowledgments
+#### Acknowledgment
 - This project is an exercise from freeCodeCamp.
-- Original source: [freeCodeCamp/CatPhotoApp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/)
+- Original source: [freeCodeCamp CatPhotoApp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/)
+
 
 ### 2. Cafe Menu
 
 The `Cafe-Menu` folder contains a project that showcases a responsive design for a cafe's menu, including sections for coffee and desserts. Each section lists various items with their respective prices.
 
-#### Acknowledgments
+#### Acknowledgment
 - This project is an exercise from freeCodeCamp.
-- Original source: [freeCodeCamp Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
+- Original source: [freeCodeCamp Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu/)
+
+
+### 3. Colored Markers
+
+The `Colored-Markers` folder contains a project that showcases a set of colored markers using CSS. The project demonstrates the use of CSS colors, gradients, and shadows to create visually appealing marker designs.
+
+#### Acknowledgment
+- This project is an exercise from freeCodeCamp.
+- Original source: [freeCodeCamp Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/)
 
 
 ### How to View
