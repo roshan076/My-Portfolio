@@ -31,6 +31,15 @@ The `Colored-Markers` folder contains a project that showcases a set of colored 
 - Original source: [freeCodeCamp Colored Markers](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/)
 
 
+### 4. Registration Form
+
+The `Registration-Form` folder contains a project that showcases a responsive registration form. The form includes fields for personal information, account type selection, profile picture upload, and more, providing a comprehensive example of form handling in HTML.
+
+#### Acknowledgments
+- This project is an exercise from freeCodeCamp.
+- Original source: [freeCodeCamp Registration Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/)
+
+
 ### How to View
 
 To view any project, open the respective `index.html` file in a web browser.
