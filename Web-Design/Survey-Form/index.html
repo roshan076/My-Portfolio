@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!--
+    This is a certification project for responsive web design in freeCodeCamp.
+    Original source: https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-survey-form-project
+    -->
+    
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Please share your thoughts on your experience with Clash of Clans.</p>
+
+    <form action="" id="survey-form">
+        <label for="name" id="name-label">Name 
+            <input required type="text" id="name" placeholder="Enter your name">
+        </label>
+        <label for="email" id="email-label">Email 
+            <input required type="email" id="email" placeholder="Enter your Email">
+        </label>
+        <label for="number" id="number-label">Age 
+            <input required type="number" id="number" min="10" max="70" placeholder="Age">
+        </label>
+        <label for="dropdown">Your Town Hall Level
+            <select required name="town-hall" id="dropdown">
+                <option disabled selected value="0">Your Town Hall level</option>
+                <option value="1">Town Hall 1</option>
+                <option value="2">Town Hall 2</option>
+                <option value="3">Town Hall 3</option>
+                <option value="4">Town Hall 4</option>
+                <option value="5">Town Hall 5</option>
+                <option value="6">Town Hall 6</option>
+                <option value="7">Town Hall 7</option>
+                <option value="8">Town Hall 8</option>
+                <option value="9">Town Hall 9</option>
+                <option value="10">Town Hall 10</option>
+                <option value="11">Town Hall 11</option>
+                <option value="12">Town Hall 12</option>
+                <option value="13">Town Hall 13</option>
+                <option value="14">Town Hall 14</option>
+                <option value="15">Town Hall 15</option>
+                <option value="16">Town Hall 16</option>
+            </select>
+        </label>
+
+        <fieldset>
+            <legend>How often do you play Clash of Clans?</legend>
+            <label for="daily"><input checked type="radio" id="daily" class="inline" name="frequency" value="daily"> Daily</label>
+            <label for="weekly"><input type="radio" id="weekly" class="inline" name="frequency" value="weekly"> Weekly</label>
+            <label for="monthly"><input type="radio" id="monthly" class="inline" name="frequency" value="monthly"> Monthly</label>
+            <label for="occasionally"><input type="radio" id="occasionally" class="inline" name="frequency" value="occasionally"> Occasionally</label>
+            <label for="never"><input type="radio" id="never" class="inline" name="frequency" value="occasionally"> Never</label>
+        </fieldset>
+
+        <fieldset>
+            <legend>What features do you enjoy in Clash Of Clans? (Select all that apply)</legend>
+            <label for="farming-resource"><input type="checkbox" id="farming-resource" class="inline" name="features" value="farming-resource"> Farming Resource</label>
+            <label for="trophy-pushing"><input type="checkbox" id="trophy-pushing" class="inline" name="features" value="trophy-pushing"> Trophy Pushing</label>
+            <label for="builder-base"><input type="checkbox" id="builder-base" class="inline" name="features" value="builder-base"> Builder Base</label>
+            <label for="clan-wars"><input type="checkbox" id="clan-wars" class="inline" name="features" value="clan-wars"> Clan Wars</label>
+            <label for="clan-games"><input type="checkbox" id="clan-games" class="inline" name="features" value="clan-games"> Clan Games</label>
+        </fieldset>
+
+        <label for="feedback">Your Feedback
+            <textarea required name="feedback" id="feedback" rows="3" cols="30" placeholder="Please provide your feedback on your experience with Clash of Clans..."></textarea>
+        </label>
+
+        <input type="submit" id="submit" name="submit-form" value="Submit">
+    </form>
+
+    <footer>
+        <p>This is a certification project for <em>Responsive Web Design</em> in freeCodeCamp.
+        Project Guidelines: <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-survey-form-project">Survey Form</a></p>
+    </footer>
+</body>
+</html>
