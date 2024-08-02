@@ -9,9 +9,8 @@ This repository contains projects and exercises related to responsive web design
     - [Colored Markers](#3-colored-markers)
     - [Registration Form](#4-registration-form)
     - [Rothoko Painting](#5-rothko-painting)
-
--[Acknowledgments](#acknowledgments)
--[How to View](#how-to-view)
+- [Acknowledgments](#acknowledgments)
+- [How to View](#how-to-view)
 
 ## Projects
 
