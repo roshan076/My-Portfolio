@@ -3,14 +3,14 @@
 This repository contains projects and exercises related to responsive web design.
 
 ## Contents
-    - [Projects](#projects)
-        - [Cat Photo App](#1-cat-photo-app)
-        - [Cafe Menu](#2-cafe-menu)
-        - [Colored Markers](#3-colored-markers)
-        - [Registration Form](#4-registration-form)
-        - [Rothoko Painting](#5-rothko-painting)
-    -[Acknowledgments](#acknowledgments)
-    -[How to View](#how-to-view)
+- [Projects](#projects)
+    - [Cat Photo App](#1-cat-photo-app)
+    - [Cafe Menu](#2-cafe-menu)
+    - [Colored Markers](#3-colored-markers)
+    - [Registration Form](#4-registration-form)
+    - [Rothoko Painting](#5-rothko-painting)
+-[Acknowledgments](#acknowledgments)
+-[How to View](#how-to-view)
 
 ## Projects
 
