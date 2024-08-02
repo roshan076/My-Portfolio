@@ -5,6 +5,8 @@ Welcome to my portfolio! This repository showcases various projects and exercise
 ## Contents
 
 - [Web Design](#web-design)
+- [How to View Projects](#how-to-view-projects)
+- [Contact](#contact)
 
 ## Web Design
 
@@ -17,6 +19,8 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 - **Colored Markers**: A set of colored markers created using CSS, demonstrating the use of colors, gradients, and shadows to create visually appealing marker designs. [View Project](Web-Design/3.Colored-Markers/index.html)
 
 - **Registration Form**: A responsive registration form that includes fields for personal information, account type selection, profile picture upload, and more. This form provides a comprehensive example of form handling in HTML. [View Project](Web-Design/4.Registration-Form/index.html)
+
+- **Rothko Painting**: A design inspired by Rothko's abstract paintings, showcasing the use of the CSS box model, including properties like borders, margins, padding, and transformations to create a unique artistic style. [View Project](Web-Design/5.Rothko-Painting/index.html)
 
 ## How to View Projects
 
