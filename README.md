@@ -22,6 +22,8 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 
 - **Rothko Painting**: A design inspired by Rothko's abstract paintings, showcasing the use of the CSS box model, including properties like borders, margins, padding, and transformations to create a unique artistic style. [View Project](Web-Design/5.Rothko-Painting/index.html)
 
+- **Photo Gallery**: A responsive photo gallery built using CSS Flexbox, demonstrating the use of flexible layouts and media queries to create a visually appealing and user-friendly gallery. [View Project](Web-design/6.Photo-Gallery/index.html)
+
 ## How to View Projects
 
 To view any project, navigate to the respective folder and open the `index.html` file.

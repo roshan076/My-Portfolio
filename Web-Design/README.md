@@ -9,6 +9,7 @@ This repository contains projects and exercises related to responsive web design
     - [Colored Markers](#3-colored-markers)
     - [Registration Form](#4-registration-form)
     - [Rothoko Painting](#5-rothko-painting)
+    - [Photo Gallery](#6-photo-gallery)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -28,6 +29,9 @@ The [`4.Registration-Form`](./4.Registration-Form/index.html) folder contains a 
 
 ### 5. Rothko Painting
 The [`5.Rothko-Painting`](./5.Rothko-Painting/index.html) folder contains a project that uses the CSS box model to create a design inspired by Rothko's abstract paintings. The project demonstrates the use of CSS properties such as borders, margins, padding, and transformations to achieve a unique artistic style.
+
+### 6. Photo Gallery
+The [`6.Photo-Gallery`](./6.Photo-Gallery/index.html) folder contains a project that demonstrates the use of CSS Flexbox to create a responsive photo gallery layout, featuring a collection of cat photos.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
