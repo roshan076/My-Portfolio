@@ -33,6 +33,9 @@ The [`5.Rothko-Painting`](./5.Rothko-Painting/index.html) folder contains a proj
 ### 6. Photo Gallery
 The [`6.Photo-Gallery`](./6.Photo-Gallery/index.html) folder contains a project that demonstrates the use of CSS Flexbox to create a responsive photo gallery layout, featuring a collection of cat photos.
 
+### 7. Nutrition Label
+The [`7.Nutrition-Label`](./7.Nutrition-Label/index.html) folder contains a project that focuses on typography by creating a nutrition label using CSS and HTML. This project demonstrates the use of fonts, spacing, and styling techniques to represent nutritional information accurately and effectively.
+
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
 - Original source: [freeCodeCamp Reponsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)

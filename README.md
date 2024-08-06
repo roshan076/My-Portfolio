@@ -24,6 +24,8 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 
 - **Photo Gallery**: A responsive photo gallery built using CSS Flexbox, demonstrating the use of flexible layouts and media queries to create a visually appealing and user-friendly gallery. [View Project](Web-design/6.Photo-Gallery/index.html)
 
+- **Nutrition Label**: A project focused on typography by creating a nutrition label using CSS and HTML, demonstrating the use of fonts, spacing, and styling to accurately represent nutritional information. [View Project](./Web-Design/7.Nutrition-Label/index.html)
+
 ## How to View Projects
 
 To view any project, navigate to the respective folder and open the `index.html` file.
