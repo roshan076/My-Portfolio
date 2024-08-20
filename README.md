@@ -26,6 +26,8 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 
 - **Nutrition Label**: A project focused on typography by creating a nutrition label using CSS and HTML, demonstrating the use of fonts, spacing, and styling to accurately represent nutritional information. [View Project](./Web-Design/7.Nutrition-Label/index.html)
 
+- **Accssibility Quiz**: A project focuses on building an accessible quiz using HTML and CSS, applying best practices for screen readers, keyboard navigation, and form elements. [View Project](./Web-Design/8.Accessibility-Quiz/index.html)
+
 ## How to View Projects
 
 To view any project, navigate to the respective folder and open the `index.html` file.

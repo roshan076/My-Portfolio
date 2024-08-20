@@ -10,6 +10,8 @@ This repository contains projects and exercises related to responsive web design
     - [Registration Form](#4-registration-form)
     - [Rothoko Painting](#5-rothko-painting)
     - [Photo Gallery](#6-photo-gallery)
+    - [Nutrition Label](#7-nutrition-label)
+    - [Accessibility Quiz](#8-accessibility-quiz)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -35,6 +37,9 @@ The [`6.Photo-Gallery`](./6.Photo-Gallery/index.html) folder contains a project 
 
 ### 7. Nutrition Label
 The [`7.Nutrition-Label`](./7.Nutrition-Label/index.html) folder contains a project that focuses on typography by creating a nutrition label using CSS and HTML. This project demonstrates the use of fonts, spacing, and styling techniques to represent nutritional information accurately and effectively.
+
+### 8. Accessibility Quiz
+The [`8.Accessibility-Quiz`](./8.Accessibility-Quiz/index.html) folder contains a project that demonstrates the creation of an accessible quiz using HTML and CSS. This project emphasizes best practices in web accessibility, including the use of semantic HTML, keyboard navigation, and screen reader support for forms and interactive elements.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
