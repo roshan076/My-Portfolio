@@ -12,6 +12,7 @@ This repository contains projects and exercises related to responsive web design
     - [Photo Gallery](#6-photo-gallery)
     - [Nutrition Label](#7-nutrition-label)
     - [Accessibility Quiz](#8-accessibility-quiz)
+    - [Balance Sheet](#9-balance-sheet)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -40,6 +41,9 @@ The [`7.Nutrition-Label`](./7.Nutrition-Label/index.html) folder contains a proj
 
 ### 8. Accessibility Quiz
 The [`8.Accessibility-Quiz`](./8.Accessibility-Quiz/index.html) folder contains a project that demonstrates the creation of an accessible quiz using HTML and CSS. This project emphasizes best practices in web accessibility, including the use of semantic HTML, keyboard navigation, and screen reader support for forms and interactive elements.
+
+### 9. Balance Sheet
+The [`9.Balance-Sheet`](./9.Balance-Sheet/index.html) folder contains a project designed to display a company's financial status across multiple years. It emphasizes the use of CSS pseudo-selectors to style tables and enhance the visual appeal and readability of financial data while ensuring accessibility features for users.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.

@@ -28,6 +28,8 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 
 - **Accssibility Quiz**: A project focuses on building an accessible quiz using HTML and CSS, applying best practices for screen readers, keyboard navigation, and form elements. [View Project](./Web-Design/8.Accessibility-Quiz/index.html)
 
+- **Balance Sheet**: A project showcasing a company's balance sheet built using HTML and CSS, focusing on the use of pseudo-selectors for styling tables and enhancing layout accessibility. [View Project](./Web-Design/9.Balance-Sheet/index.html)
+
 ## How to View Projects
 
 To view any project, navigate to the respective folder and open the `index.html` file.
