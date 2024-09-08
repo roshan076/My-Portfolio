@@ -13,6 +13,7 @@ This repository contains projects and exercises related to responsive web design
     - [Nutrition Label](#7-nutrition-label)
     - [Accessibility Quiz](#8-accessibility-quiz)
     - [Balance Sheet](#9-balance-sheet)
+    - [fCC Cat Painting](#10-fcc-cat-painting)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -44,6 +45,9 @@ The [`8.Accessibility-Quiz`](./8.Accessibility-Quiz/index.html) folder contains 
 
 ### 9. Balance Sheet
 The [`9.Balance-Sheet`](./9.Balance-Sheet/index.html) folder contains a project designed to display a company's financial status across multiple years. It emphasizes the use of CSS pseudo-selectors to style tables and enhance the visual appeal and readability of financial data while ensuring accessibility features for users.
+
+### 10. fCC Cat Painting
+The [`fCC-Cat-Painting`](./10.fCC-Cat-Painting/index.html) folder contains a project that presents a graphical illustration of a cat's face using HTML and CSS. This exercise focuses on manipulating shapes, colors, and CSS pseudo-elements to create a realistic cat face, including eyes, nose, whiskers, and ears, demonstrating layout control and creative use of CSS properties.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.

@@ -30,6 +30,8 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 
 - **Balance Sheet**: A project showcasing a company's balance sheet built using HTML and CSS, focusing on the use of pseudo-selectors for styling tables and enhancing layout accessibility. [View Project](./Web-Design/9.Balance-Sheet/index.html)
 
+- **fCC Cat Painting**: A playful illustration of a cat face built entirely using HTML and CSS, showcasing advanced use of shapes, positioning, and transformations to create an interactive, animated design. [View Project](./Web-Design/10.fCC-Cat-Painting/index.html)
+
 ## How to View Projects
 
 To view any project, navigate to the respective folder and open the `index.html` file.
