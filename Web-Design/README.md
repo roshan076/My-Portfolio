@@ -14,6 +14,7 @@ This repository contains projects and exercises related to responsive web design
     - [Accessibility Quiz](#8-accessibility-quiz)
     - [Balance Sheet](#9-balance-sheet)
     - [fCC Cat Painting](#10-fcc-cat-painting)
+    - [Piano](#11-piano)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -48,6 +49,9 @@ The [`9.Balance-Sheet`](./9.Balance-Sheet/index.html) folder contains a project 
 
 ### 10. fCC Cat Painting
 The [`fCC-Cat-Painting`](./10.fCC-Cat-Painting/index.html) folder contains a project that presents a graphical illustration of a cat's face using HTML and CSS. This exercise focuses on manipulating shapes, colors, and CSS pseudo-elements to create a realistic cat face, including eyes, nose, whiskers, and ears, demonstrating layout control and creative use of CSS properties.
+
+### 11. Piano
+The [`Piano`](./11.Piano/index.html) project is a responsive web design exercise from freeCodeCamp, featuring a piano layout with white and black keys. The design includes a freeCodeCamp logo and adjusts for different screen sizes, ensuring a smooth experience across devices.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.

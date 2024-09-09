@@ -32,6 +32,8 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 
 - **fCC Cat Painting**: A playful illustration of a cat face built entirely using HTML and CSS, showcasing advanced use of shapes, positioning, and transformations to create an interactive, animated design. [View Project](./Web-Design/10.fCC-Cat-Painting/index.html)
 
+- **Piano**: A responsive piano design featuring white and black keys, created as an exercise from freeCodeCamp. The design adjusts for various screen sizes, with a freeCodeCamp logo displayed at the top. [View Project](./Web-Design/11.Piano/index.html)
+
 ## How to View Projects
 
 To view any project, navigate to the respective folder and open the `index.html` file.
