@@ -16,6 +16,14 @@
             <li><a class="nav-link" href="#What_you_should_already_know">What you should already know</a></li>
             <li><a class="nav-link" href="#Python_and_Other_Languages">Python and Other Languages</a></li>
             <li><a class="nav-link" href="#Hello_World">Hello World</a></li>
+            <li><a class="nav-link" href="#Variables">Variables</a></li>
+            <li><a class="nav-link" href="#Declaring_Variables">Declaring Variables</a></li>
+            <li><a class="nav-link" href="#Variable_Scope">Variable Scope</a></li>
+            <li><a class="nav-link" href="#Constants">Constants</a></li>
+            <li><a class="nav-link" href="#Data_Types">Data Types</a></li>
+            <li><a class="nav-link" href="#if...else_Statement">if...else Statement</a></li>
+            <li><a class="nav-link" href="#While_Statement">While Statement</a></li>
+            <li><a class="nav-link" href="#Function_Declarations">Function Declarations</a></li>
             <li><a class="nav-link" href="#Reference">Reference</a></li>
         </ul>
     </nav>
@@ -49,13 +57,13 @@
                 <ul>
                     <li><strong>Typing: </strong>Python is dynamically typed, meaning you do not need to declare the data type of a variable explicitly. In contrast, language like Java use static typing.</li>
                     <li><strong>Syntax: </strong>Python syntax is designed to be redable and straightforward. Unlike C++ and Java, Python does not use curly braces for blocks of code but relies on indentation.</li>
-                    <li><strong>Memory Mangement: </strong>Python handles memory management automatically trough garbage collecetion, unlike C++, which requires explicit memory management.</li>
+                    <li><strong>Memory Mangement: </strong>Python handles memory management automatically trough garbage collection, unlike C++, which requires explicit memory management.</li>
                 </ul>
             </article>
         </section>
 
-        <section class="main-section" id="Hello_world">
-            <header>Hello world</header>
+        <section class="main-section" id="Hello_World">
+            <header>Hello World</header>
             <article>
                 <p>To get started with writing Python, open a Python environment and write your first "Hello World" code:</p>
                 <code>print("Hello World")</code>
@@ -66,15 +74,129 @@
         <section class="main-section" id="Variables">
             <header>Variables</header>
             <article>
-                <p></p>
+                <p>Variables in Python are used to store data. The names of variables are called identifiers and follow specific rules:</p>
                 <ul>
-                    <li></li>
+                    <li>An identifier must start with a letter (a-z, A-Z) or an underscore (_), and can be followed by letters, digits(0-9), or underscores.</li>
+                    <li>Python is case-sensitive, so <em>Variable</em>, <em>variable</em>, and <em>VARIABLE</em> are considered different identifiers.</li>
                 </ul>
             </article>
         </section>
 
-        <section class="main-section" id="Declaring_variables">
-            <header>Declaring variables</header>
+        <section class="main-section" id="Declaring_Variables">
+            <header>Declaring Variables</header>
+            <article>
+                <p>In Python, you can declare a variable by simply assigning it a value:</p>
+                <code
+                    >x = 42
+                    y = "Hello"
+                </code>
+                <p>Python uses dynamic typing, so you don't need to specify the data type.</p>
+            </article>
+        </section>
+
+        <section class="main-section" id="Variable_Scope">
+            <header>Variable Scope</header>
+            <article>
+                <p>Variables can be declared in differnet scopes:</p>
+                <ul>
+                    <li><b>Global Scope:</b> Variables declared at the top level of a script or module are global and accessible throughout the module.</li>
+                    <li><b>Local Scope:</b> Variables declared inside a function are local to that function.</li>
+                </ul>
+                <p>Example:</p>
+                <code
+                    >def my_function():
+                    &nbsp;&nbsp;&nbsp;&nbsp;local_var = "I am local"
+                    &nbsp;&nbsp;&nbsp;&nbsp;print(local_var)
+
+                    gloabl_var = "I am global"
+                    print(global_var)
+                    my_function()
+                </code>
+            </article>
+        </section>
+
+        <section class="main-section" id="Constants">
+            <header>Constants</header>
+            <article>
+                <p>Python does not have a built-in constant type. However, you can create constatns by convention using uppercase names:</p>
+                <code>PI = 3.14</code>
+                <p>Constants are not enforced by the language, they are only a convention to indicate that a variable should not be changed.</p>
+            </article>
+        </section>
+
+        <section class="main-section" id="Data_Types">
+            <header>Data Types</header>
+            <article>
+                <p>Python includes several built-in data types:</p>
+                <ul>
+                    <li><b>int:</b> Integer values (e.g, <em>42</em>)</li>
+                    <li><b>float:</b> Floating-point values (e.g., <em>3.14159</em>)</li>
+                    <li><b>str:</b> String vlaues (e.g., <em>"Hello"</em>)</li>
+                    <li><b>bool:</b> Boolean values (<em>True</em> or <em>False</em>)</li>
+                    <li><b>list:</b> Ordered, mutable collection (e.g., <em>[1, 2, 3]</em>)</li>
+                    <li><b>tuple:</b> Ordered, immutable collection (e.g., <em>(1, 2, 3)</em>)</li>
+                    <li><b>dict:</b> Unordered collection of key-value pairs (e.g., <em>{"key": "value"}</em>)</li>
+                    <li><b>set:</b> Unordered collection of unique elements (e.g., <em>{1, 2, 3}</em>)</li>
+                </ul>
+            </article>
+        </section>
+
+        <section class="main-section" id="if...else_Statement">
+            <header>if...else Statement</header>
+            <article>
+                <p>Use the <em>if</em> statement to execute code based on a condition. The <em>else</em> clause executes if the condition id false. Example:</p>
+                <code
+                    >if condition:
+                    &nbsp;&nbsp;&nbsp;&nbsp;statement_1
+                    else:
+                    &nbsp;&nbsp;&nbsp;&nbsp;statement_2
+                </code>
+                <p>You can also use <em>elif</em> to test multiple conditions:</p>
+                <code
+                    >if condition_1:
+                    &nbsp;&nbsp;&nbsp;&nbsp;statement_1
+                    elif condition_2:
+                    &nbsp;&nbsp;&nbsp;&nbsp;statement_2
+                    else:
+                    &nbsp;&nbsp;&nbsp;&nbsp;statement_last
+                </code>
+            </article>
+        </section>
+
+        <section class="main-section" id="While_Statement">
+            <header>While Statement</header>
+            <article>
+                <p>A <em>while</em> loop repeatedly executes a block of code as long as a specified condition is true:</p>
+                <code
+                    >while condition:
+                    &nbsp;&nbsp;&nbsp;&nbsp;statement
+                </code>
+                <p>Example:</p>
+                <code
+                    >n = 0
+                    x = 0
+                    while n < 3:
+                    &nbsp;&nbsp;&nbsp;&nbsp;n += 1
+                    &nbsp;&nbsp;&nbsp;&nbsp;x += n
+                </code>
+            </article>
+        </section>
+
+        <section class="main-section" id="Function_Declarations">
+            <header>Function Declarations</header>
+            <article>
+                <p>A function in Python using the <em>def</em> keyboard followed by the function name, parameters in parentheses, and a block of code:</p>
+                <code
+                    >def function_name(parameters):
+                    &nbsp;&nbsp;&nbsp;&nbsp;<i># function body</i>
+                    </i>&nbsp;&nbsp;&nbsp;&nbsp;return value
+                </code>
+                <p>Example:</p>
+                <code
+                    >def square(number):
+                    &nbsp;&nbsp;&nbsp;&nbsp;return number * number
+                </code>
+            </article>
         </section>
 
         <section class="main-section" id="Reference">

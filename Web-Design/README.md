@@ -15,6 +15,7 @@ This repository contains projects and exercises related to responsive web design
     - [Balance Sheet](#9-balance-sheet)
     - [fCC Cat Painting](#10-fcc-cat-painting)
     - [Piano](#11-piano)
+    - [City Skyline](#12-city-skyline)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -52,6 +53,9 @@ The [`fCC-Cat-Painting`](./10.fCC-Cat-Painting/index.html) folder contains a pro
 
 ### 11. Piano
 The [`Piano`](./11.Piano/index.html) project is a responsive web design exercise from freeCodeCamp, featuring a piano layout with white and black keys. The design includes a freeCodeCamp logo and adjusts for different screen sizes, ensuring a smooth experience across devices.
+
+### 12. City Skyline:
+The [`City-Skyline`](./12.City-Skyline/index.html) folder contains a project that showcases a responsive city skyline design, with buildings and windows styled using CSS variables and gradients.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
