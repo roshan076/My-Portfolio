@@ -36,6 +36,8 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 
 - **City Skyline:** A responsive city skyline design with buildings and windows styled using CSS variables and gradients. [View Project](./Web-Design/12.City-Skyline/index.html)
 
+- **Magazine:** A magazine webpage highlighting the new freeCodeCamp curriculum, with responsive design, social media links, and a structured layout. [View Project](./Web-Design/13.Magazine/index.html)
+
 ## How to View Projects
 
 To view any project, navigate to the respective folder and open the `index.html` file.

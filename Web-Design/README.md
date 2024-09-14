@@ -16,6 +16,7 @@ This repository contains projects and exercises related to responsive web design
     - [fCC Cat Painting](#10-fcc-cat-painting)
     - [Piano](#11-piano)
     - [City Skyline](#12-city-skyline)
+    - [Magazine](#13-magazine)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -56,6 +57,9 @@ The [`Piano`](./11.Piano/index.html) project is a responsive web design exercise
 
 ### 12. City Skyline:
 The [`City-Skyline`](./12.City-Skyline/index.html) folder contains a project that showcases a responsive city skyline design, with buildings and windows styled using CSS variables and gradients.
+
+### 13. Magazine:
+The [`Magazine`](./13.Magazine/index.html) folder contains a webpage that highlights the new freeCodeCamp curriculum. The design includes a hero section, author details, social media links, and historical insights about the curriculum's development. The layout is fully responsive with an engaging text and image structure.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
