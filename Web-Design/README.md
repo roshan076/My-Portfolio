@@ -18,6 +18,7 @@ This repository contains projects and exercises related to responsive web design
     - [City Skyline](#12-city-skyline)
     - [Magazine](#13-magazine)
     - [Ferris Wheel](#14-ferris-wheel)
+    - [Flappy Penguin](#15-flappy-penguin)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -64,6 +65,9 @@ The [`Magazine`](./13.Magazine/index.html) folder contains a webpage that highli
 
 ### 14. Ferris Wheel:
 The [`Ferris-Wheel`](./14.Ferris-Wheel/index.html) folder showcases a CSS-based Ferris wheel animation. The wheel rotates continuously, with cabins moving in sync and changing colors as they complete their cycle. The design includes smooth transitions and dynamic visuals.
+
+### 15. Flappy Penguin:
+The [`Flappy-Penguin`](./15.Flappy-Penguin/index.html) folder showcases a playful, animated penguin built with CSS. The penguin features moving arms, and a hovering effect on hover, with a fun design that includes dynamic backgrounds and elements.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.

@@ -40,6 +40,9 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 
 - **Ferris Wheel:** A CSS-animated Ferris wheel with rotating cabins that change colors. [View Project](./Web-Design/14.Ferris-Wheel/index.html)
 
+**Flappy Penguin:** A playful CSS-animated penguin with dynamic elements like arm waving and color transitions. [View Project](./Web-Design/15.Flappy-Penguin/index.html)
+
+
 ## How to View Projects
 
 To view any project, navigate to the respective folder and open the `index.html` file.
