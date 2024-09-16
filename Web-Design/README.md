@@ -17,6 +17,7 @@ This repository contains projects and exercises related to responsive web design
     - [Piano](#11-piano)
     - [City Skyline](#12-city-skyline)
     - [Magazine](#13-magazine)
+    - [Ferris Wheel](#14-ferris-wheel)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -60,6 +61,9 @@ The [`City-Skyline`](./12.City-Skyline/index.html) folder contains a project tha
 
 ### 13. Magazine:
 The [`Magazine`](./13.Magazine/index.html) folder contains a webpage that highlights the new freeCodeCamp curriculum. The design includes a hero section, author details, social media links, and historical insights about the curriculum's development. The layout is fully responsive with an engaging text and image structure.
+
+### 14. Ferris Wheel:
+The [`Ferris-Wheel`](./14.Ferris-Wheel/index.html) folder showcases a CSS-based Ferris wheel animation. The wheel rotates continuously, with cabins moving in sync and changing colors as they complete their cycle. The design includes smooth transitions and dynamic visuals.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.

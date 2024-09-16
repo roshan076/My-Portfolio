@@ -38,6 +38,8 @@ The `Web-Design` folder contains projects related to responsive web design. Each
 
 - **Magazine:** A magazine webpage highlighting the new freeCodeCamp curriculum, with responsive design, social media links, and a structured layout. [View Project](./Web-Design/13.Magazine/index.html)
 
+- **Ferris Wheel:** A CSS-animated Ferris wheel with rotating cabins that change colors. [View Project](./Web-Design/14.Ferris-Wheel/index.html)
+
 ## How to View Projects
 
 To view any project, navigate to the respective folder and open the `index.html` file.

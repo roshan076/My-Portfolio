@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Landing Page</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anton%7CBaskervville%7CRaleway&display=swap">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <header id="header">
+        <img id="header-img" src="./Images/logo.jpg" alt="Himalayan Java Logo">
+        <h1 class="header-text">Himalayan Java<br>Coffeee</h1>
+        <nav id="nav-bar">
+            <a class="nav-link" href="#features">Features</a>
+            <a class="nav-link" href="#stories-from-java">Stories From Java</a>
+            <a class="nav-link" href="#pricing">Pricing</a>
+        </nav>
+    </header>
+
+    <main class="main">
+        <h2 class="body-head">From the Himalayan peaks to your perfect cup</h2>
+        <form id="form" action="https://www.freecodecamp.com/email-submit" method="post">
+            <input id="email" type="email" name="email" placeholder="Enter your email address" required>
+            <input type="submit" id="submit" class="btn" value="Get Started">
+        </form>
+    
+        <section id="features">
+            <h2>Features</h2>
+            <ul>
+                <li><h3>Mountain-Grown Quality:</h3><p>Our coffee is cultivated in the pristine Himalayan region, benefiting from the rich soil and high-altitude conditions that produce beans with a unique, rich flavor profile.</p></li>
+
+                <li><h3>Artisanal Crafting:</h3><p>Handpicked and carefully processed, our coffee is roasted and ground with precision to preserve the natural aroma and bold taste of the mountains in every bag.</p></li>
+
+                <li><h3>Sustainably Sourced:</h3><p>We are committed to environmentally responsible farming practices, ensuring that our coffee is not only high-quality but also eco-friendly and ethically produced.</p></li>
+            </ul>
+        </section>
+
+        <section id="stories-from-java">
+            <h2>Stories From Java</h2>
+            <iframe
+                id="video" 
+                height="315"
+                src="https://www.youtube.com/watch?v=TBuipe0SjSY"
+                frameborder="0"
+                allowfullscreen
+                ></iframe>
+        </section>
+
+        <section id="pricing">
+            <div class="product">
+                <div class="level">Roasted Bean</div>
+                <h2>$100</h2>
+                <ul>
+                    <li>Single-Origin</li>
+                    <li>Small-Batch Roasted</li>
+                    <li>Full-Bodied Flavor</li>
+                </ul>
+                <button class="btn">Select</button>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
