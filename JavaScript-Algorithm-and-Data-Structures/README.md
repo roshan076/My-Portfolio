@@ -25,6 +25,9 @@ The [`RPG - Dragon Repeller`](./03.RPG-Dragon-Repeller/index.html) project is an
 ### 4. Color Changer
 The [`Color Changer`](04.Color-Changer/index.html) project allows users to change the background to a random dark color with a button click. The current background hex code is displayed and updates with each color change.
 
+### 5. Calorie Counter
+The [`Calorie Counter`](05.Calorie-Counter/index.html) project helps users track their daily calorie consumption and expenditure. Users can input their calorie budget and add food or exercise entries under different categories such as breakfast, lunch, dinner, snacks, and exercise. The tools displays the total calories consumed and burned for the day.
+
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
 - Project Guidance: [freeCodeCamp Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
