@@ -8,6 +8,7 @@ This repository contains projects and exercises related to javascript algorithms
     - [Gradebook](#2-gradebook)
     - [RPG - Dragon Repeller](#3-rpg---dragon-repeller)
     - [Color Changer](#4-color-changer)
+    - [RPS Game](#6-rps-game)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -27,6 +28,9 @@ The [`Color Changer`](04.Color-Changer/index.html) project allows users to chang
 
 ### 5. Calorie Counter
 The [`Calorie Counter`](05.Calorie-Counter/index.html) project helps users track their daily calorie consumption and expenditure. Users can input their calorie budget and add food or exercise entries under different categories such as breakfast, lunch, dinner, snacks, and exercise. The tools displays the total calories consumed and burned for the day.
+
+### 6. RPS Game
+The [`RPS Game`](./06.RPS-Game/index.html) project simulates the classic Rock, Paper, Scissors game. The player competes against the computer, choosing between Rock, Paper, or Scissors. The game is won by the first to reach three points, with rules stating that Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
