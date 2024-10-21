@@ -9,6 +9,7 @@ This repository contains projects and exercises related to javascript algorithms
     - [RPG - Dragon Repeller](#3-rpg---dragon-repeller)
     - [Color Changer](#4-color-changer)
     - [RPS Game](#6-rps-game)
+    - [Music Player](#7-music-player)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -31,6 +32,9 @@ The [`Calorie Counter`](05.Calorie-Counter/index.html) project helps users track
 
 ### 6. RPS Game
 The [`RPS Game`](./06.RPS-Game/index.html) project simulates the classic Rock, Paper, Scissors game. The player competes against the computer, choosing between Rock, Paper, or Scissors. The game is won by the first to reach three points, with rules stating that Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
+
+### 7. Music Player
+The [`Music Player`](./07.Music-Player/index.html) project is a simple music player app that utilizes basic string and array methods to manage song data, display album art, and provide playback controls. Users can play, pause, and navigate through songs while enjoying a visually appealing interface.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
