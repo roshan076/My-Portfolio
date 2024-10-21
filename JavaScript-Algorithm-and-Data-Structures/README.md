@@ -36,6 +36,9 @@ The [`RPS Game`](./06.RPS-Game/index.html) project simulates the classic Rock, P
 ### 7. Music Player
 The [`Music Player`](./07.Music-Player/index.html) project is a simple music player app that utilizes basic string and array methods to manage song data, display album art, and provide playback controls. Users can play, pause, and navigate through songs while enjoying a visually appealing interface.
 
+### 8. Date Formatter
+The [`Date Formatter`](./08.Date-Formatter/index.html) project is a simple web-based date formatter that displays the current date in different formats based on the selected dropdown option. Users can switch between various date formats, including day-month-year, year-month-day, and month-day-year with time.
+
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
 - Project Guidance: [freeCodeCamp Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
