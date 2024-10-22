@@ -10,6 +10,8 @@ This repository contains projects and exercises related to javascript algorithms
     - [Color Changer](#4-color-changer)
     - [RPS Game](#6-rps-game)
     - [Music Player](#7-music-player)
+    - [Date Formatter](#8-date-formatter)
+    - [Football Team Cards](#9-football-team-cards)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -38,6 +40,10 @@ The [`Music Player`](./07.Music-Player/index.html) project is a simple music pla
 
 ### 8. Date Formatter
 The [`Date Formatter`](./08.Date-Formatter/index.html) project is a simple web-based date formatter that displays the current date in different formats based on the selected dropdown option. Users can switch between various date formats, including day-month-year, year-month-day, and month-day-year with time.
+
+### 9. Football Team Cards
+The [`Football Team Cards`](./09.Football-Team-Cards/index.html) project displays details about Argentina's 1986 World Cup-winning football team, including player cards that feature their names, positions, numbers, and nicknames. Users can filter players based on their roles or nicknames using a dropdown menu.
+
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
