@@ -12,6 +12,7 @@ This repository contains projects and exercises related to javascript algorithms
     - [Music Player](#7-music-player)
     - [Date Formatter](#8-date-formatter)
     - [Football Team Cards](#9-football-team-cards)
+    - [TODO App](#10-todo-app)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -44,6 +45,8 @@ The [`Date Formatter`](./08.Date-Formatter/index.html) project is a simple web-b
 ### 9. Football Team Cards
 The [`Football Team Cards`](./09.Football-Team-Cards/index.html) project displays details about Argentina's 1986 World Cup-winning football team, including player cards that feature their names, positions, numbers, and nicknames. Users can filter players based on their roles or nicknames using a dropdown menu.
 
+### 10. TODO App
+The [`TODO App`](./10.TODO-App/index.html) project is a simple task management app that allows users to add, edit, and delete tasks, with data persistence using the browser's localStorage. It features a form for task input, task list display, and confirmation dialogs for unsaved changes.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
