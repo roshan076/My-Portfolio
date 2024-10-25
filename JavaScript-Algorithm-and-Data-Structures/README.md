@@ -13,6 +13,7 @@ This repository contains projects and exercises related to javascript algorithms
     - [Date Formatter](#8-date-formatter)
     - [Football Team Cards](#9-football-team-cards)
     - [TODO App](#10-todo-app)
+    - [Binary to Decimal Converter](#11-decimal-to-binary-converter)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -47,6 +48,9 @@ The [`Football Team Cards`](./09.Football-Team-Cards/index.html) project display
 
 ### 10. TODO App
 The [`TODO App`](./10.TODO-App/index.html) project is a simple task management app that allows users to add, edit, and delete tasks, with data persistence using the browser's localStorage. It features a form for task input, task list display, and confirmation dialogs for unsaved changes.
+
+### 11. Decimal to Binary Converter
+The [`Decimal to Binary Converter`](./11.Decimal-to-Binary-Converter/index.html) project converts a user-provided decimal number into its binary equivalent and displays the result. It features a call stack animation for the conversion process when the input is 5, demonstrating the recursive algorithm in action.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
