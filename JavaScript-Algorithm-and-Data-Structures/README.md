@@ -15,6 +15,7 @@ This repository contains projects and exercises related to javascript algorithms
     - [TODO App](#10-todo-app)
     - [Binary to Decimal Converter](#11-decimal-to-binary-converter)
     - [Spam Filter](#12-spam-filter)
+    - [Number Sorter](#13-number-sorter)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -55,6 +56,9 @@ The [`Decimal to Binary Converter`](./11.Decimal-to-Binary-Converter/index.html)
 
 ### 12. Spam Filter
 The [`Spam Filter`](./12.Spam-Filter/index.html) project detects spam in user-submitted messages by analyzing common spam patterns using regular expressions. It checks for phrases associated with spam and displays feedback, helping users identify potentially spammy content.
+
+### 13. Number Sorter
+The [`Number Sorter`](./13.Number-Sorter/index.html) is a project that allows users to select a series of numbers from dropdowns and sorts them in ascending order upon clicking the "Sort" button. It features different sorting algorithms implemented in JavaScript, with results displayed dynamically in the interface.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
