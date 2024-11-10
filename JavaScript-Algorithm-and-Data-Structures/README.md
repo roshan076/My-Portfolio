@@ -14,6 +14,7 @@ This repository contains projects and exercises related to javascript algorithms
     - [Football Team Cards](#9-football-team-cards)
     - [TODO App](#10-todo-app)
     - [Binary to Decimal Converter](#11-decimal-to-binary-converter)
+    - [Spam Filter](#12-spam-filter)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -51,6 +52,9 @@ The [`TODO App`](./10.TODO-App/index.html) project is a simple task management a
 
 ### 11. Decimal to Binary Converter
 The [`Decimal to Binary Converter`](./11.Decimal-to-Binary-Converter/index.html) project converts a user-provided decimal number into its binary equivalent and displays the result. It features a call stack animation for the conversion process when the input is 5, demonstrating the recursive algorithm in action.
+
+### 12. Spam Filter
+The [`Spam Filter`](./12.Spam-Filter/index.html) project detects spam in user-submitted messages by analyzing common spam patterns using regular expressions. It checks for phrases associated with spam and displays feedback, helping users identify potentially spammy content.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
