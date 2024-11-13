@@ -16,6 +16,7 @@ This repository contains projects and exercises related to javascript algorithms
     - [Binary to Decimal Converter](#11-decimal-to-binary-converter)
     - [Spam Filter](#12-spam-filter)
     - [Number Sorter](#13-number-sorter)
+    - [Statistics Calculator](#14-statistics-calculator)
 - [Acknowledgments](#acknowledgments)
 - [How to View](#how-to-view)
 
@@ -59,6 +60,9 @@ The [`Spam Filter`](./12.Spam-Filter/index.html) project detects spam in user-su
 
 ### 13. Number Sorter
 The [`Number Sorter`](./13.Number-Sorter/index.html) is a project that allows users to select a series of numbers from dropdowns and sorts them in ascending order upon clicking the "Sort" button. It features different sorting algorithms implemented in JavaScript, with results displayed dynamically in the interface.
+
+### 14. Statistics Calculator
+The [`Statistics Calculator`](./14.Statistics-Calculator/script.js) project provides an interactive tool to calculate key statistical measures such as mean, median, mode, range, variance, and standard deviation from a user-provided list of numbers. It features a clean interface with real-time calculations implemented in JavaScript.
 
 ## Acknowledgments
 - These projects were completed as guided exercises provided by freeCodeCamp.
